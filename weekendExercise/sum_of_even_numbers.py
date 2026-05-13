@@ -1,0 +1,10 @@
+sum = 0
+
+numbers = [1,2,3,4,5,6,7,8,9,10]
+
+for number in numbers:
+
+  if number % 2 == :
+    sum += number
+
+print("Sum of the even numbers is: ",sum)
